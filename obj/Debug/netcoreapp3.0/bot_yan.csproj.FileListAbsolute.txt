@@ -1,0 +1,14 @@
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\bot_yan.exe
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\bot_yan.deps.json
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\bot_yan.runtimeconfig.json
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\bot_yan.runtimeconfig.dev.json
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\bot_yan.dll
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\bot_yan.pdb
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Program Files\bot_yan\bin\Debug\netcoreapp3.0\Telegram.Bot.dll
+D:\Program Files\bot_yan\obj\Debug\netcoreapp3.0\bot_yan.csprojAssemblyReference.cache
+D:\Program Files\bot_yan\obj\Debug\netcoreapp3.0\bot_yan.AssemblyInfoInputs.cache
+D:\Program Files\bot_yan\obj\Debug\netcoreapp3.0\bot_yan.AssemblyInfo.cs
+D:\Program Files\bot_yan\obj\Debug\netcoreapp3.0\bot_yan.csproj.CopyComplete
+D:\Program Files\bot_yan\obj\Debug\netcoreapp3.0\bot_yan.dll
+D:\Program Files\bot_yan\obj\Debug\netcoreapp3.0\bot_yan.pdb
